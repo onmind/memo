@@ -1,18 +1,22 @@
 ---
 layout: post
-title: Difference between font formats
-description: What is the difference between various font formats?
+title: RDR 2- 야생적낙원 
+description: Red Dead Redemption 2
 summary: What is the difference between various font formats?
 comments: true
 tags: [typography]
 ---
 
-Lorem ipsum dolor amet tousled viral art party blue bottle single-origin coffee cardigan, selvage man braid helvetica. Banh mi taxidermy meditation microdosing. Selvage cornhole YOLO, small batch vexillologist raclette VHS prism sustainable 8-bit ugh semiotics letterpress disrupt pop-up. Celiac shabby chic ugh, jianbing whatever kitsch tattooed edison bulb kogi irony etsy.
+역사적 배경이 투영된 게임을 살펴볼 때, 게임 내 장소들이 기존 시대의 물리적 역사성이 재현된 장소일뿐만 아니라, 동시에 제시된 세계관과 플레이어의 행위로 인해 확장된 경험의 공간이라는 점을 인지하고 이를 레이어로 분리해내는 작업은 중요하다. 레드 데드 리뎀션 2는 게임 내에서 1890년대 말 미국 역사에서 고증 가능한 구성 요소들을 사용했지만, 이러한 요소들이 배율화되어 재편집되어 있다는 점을 기억해 둘 필요가 있다. 
 
-Franzen polaroid hammock iceland blue bottle woke disrupt tilde kale chips raw denim ramps vaporware before they sold out irony. Narwhal vaporware offal shaman celiac kinfolk activated charcoal salvia lomo irony readymade normcore. Yr activated charcoal kombucha, man braid whatever biodiesel hella crucifix adaptogen bicycle rights small batch skateboard mixtape. Hot chicken sustainable green juice 90's. Ennui kickstarter hella pug, meggings man bun shaman messenger bag. Chambray adaptogen kombucha pug affogato, kogi green juice distillery ugh banh mi.
+레드 데드 리뎀션 2는 1899년 서부개척시대라고 불렸던 프런티어의 쇠퇴와, 진보적 도시 체계의 형성 시기를 다루고 있다. 개척시대의 금광이 이미 우스개가 되어버린 이 시대는 피로 적셔진 강제 이주 후 극히 소수가 남아 보호 구역에서 살아가는 인디언들, 이미 종식된 남북전쟁에 매여 홀로 30년 간 남부 군과 대치하고 있는 살아있는 망자들의 시간이기도 하다. 도태된 시대의 정체성을 가진 이들이 카우보이라는 이름으로 평원의 먼지를 마실 동안, 도시의 부는 기름과 철도를 핏줄 삼아 광활한 자연을 파고 들어간다. 반 더 린드 갱은 도금 시대 Gilded age의 마지막 페이지에 남겨진 재건시대 Reconstruction era의 낙오자들이다. 
 
-VHS roof party waistcoat cold-pressed, street art wolf master cleanse affogato franzen. Shaman iceland pour-over intelligentsia typewriter tilde, pitchfork copper mug. Wayfarers kickstarter adaptogen vinyl beard kombucha. Organic pinterest master cleanse, mixtape fam gentrify lo-fi kogi.
+도금 시대는 기술과 금융, 철도의 시대였으며, 또한 마르지 않은 계약서들의 잉크가 넘치던 법의 시대였다. 일원적 통치와 정부 시스템을 거부한 개인의 자유에 기반했던 무법자들의 야생적 낙원은, 재건시대의 무질서를 배격하고 법치에 기반한 사회정치적인 결정들로 구조화되어가던 당대의 산업주의와 정면으로 충돌한다. 그리고 시대는 후자의 손을 들어주었다. 무법의 세계에서 총과 돈, 충성을 기반한 독자생존의 정체성으로 서로를 지탱해왔던 반 더 린드 갱단은 시대의 급류에 급속도로 와해되기 시작한다. 게임 내에서 주인공 아서 모건이 언급했듯이 그들은 서부를 기억하는 시대의 유령이며, 스스로도 그것을 어렴풋이 인지하고 있다. 그리고 20년 이상 갱단의 핵심 인물이었던 더치 반 더 린드와 호세아 매튜스, 그리고 아서 모건은 몰락과 도태를 맞이하는 시각과 태도에서 서로 다른 전환점을 보이기 시작한다. 그리고 여기에서 각 캐릭터가 가진 개별화된 역사성이 재편집된 장소성으로 나타나게 된다. 
 
-Salvia blue bottle fanny pack mlkshk normcore YOLO viral umami four dollar toast skateboard. Chambray taxidermy slow-carb street art chartreuse. Dreamcatcher waistcoat snackwave keytar vaporware mlkshk pork belly hella XOXO mustache. Tattooed semiotics edison bulb, disrupt polaroid craft beer vape enamel pin bespoke flannel letterpress brooklyn subway tile copper mug. Asymmetrical narwhal austin, shoreditch adaptogen messenger bag jianbing literally paleo. Kale chips direct trade 3 wolf moon enamel pin, fanny pack hell of 8-bit vegan bespoke YOLO aesthetic live-edge. Retro succulents before they sold out whatever bushwick.
+가까운 예는 더치의 낙원이다. 마치 플레이어가 로어들을 통해 플레이할 수 없는 맥거핀인 블랙워터 사건에 대해 계속 듣게 되는 것처럼, 갱단의 멤버들은 무법자들의 낙원, 자유를 영위할 수 있는 유토피아에 대해 더치에게 끊임없이 상기받는다. 블랙워터 때보다 훨씬 좋은 여건일 것이 분명한 동쪽의 어딘가. 혹은 누구도 가본 적은 없지만 바다 건너 어딘가에 존재하는 천국 타히티. 혹은 오스트레일리아. 이제까지 그래왔던 것처럼 충분하게 무법자로서의 정체성을 지키면서 살아갈 수 있는 약속의 땅. 자금만 모이면 푸근한 날씨와 게으른 하품 속에 간간히 이전처럼 마차나 털며, 혹은 바나나와 말을 키우며 살 수 있다는 이 낙원은 인게임 내내 더치의 늘 열성적이고 확신에 찬 어조로 제시된다.
 
-Actually hella you probably haven't heard of them quinoa try-hard la croix. Street art schlitz actually hell of pour-over air plant. Post-ironic franzen brunch mumblecore readymade. Food truck photo booth polaroid, gochujang vegan street art yr before they sold out man bun. Tilde selfies chia pitchfork everyday carry post-ironic mumblecore sartorial VHS master cleanse activated charcoal biodiesel williamsburg cronut jean shorts. Poutine helvetica keffiyeh butcher pop-up.
+그러나 더치의 카리스마가 가릴 수 없는 낙원에 대한 근저의 불안은 존재한다. 그의 손에 의해 조립된 낙원의 개념이 가리키고자 하는 것은, '장소'가 아닌 '시간'에 가깝기 때문이다. 더치의 낙원은 그의 갱단이 무법의 삶을 영위하면서도 동시에 존엄성과 명예를 함께 가질 수 있다고 믿고 있는 '과거'의 서부다. 총과 돈, 충성을 기반 삼아 스스로와 갱을 지켜낼 수 있는 자존적 삶을 가질 수 있었다고 믿었던 과거 그 시절이다. 그러나 게임 시작부터 언급되는 블랙워터의 소녀 사건과 더불어, 인게임 내의 많은 퀘스트들과 인카운터들은 이러한 재건시대의 낭만화가, 더치만의 편집된 시간이라는 것을 반복적으로 상기시킨다. 
+
+때문에 더치가 시대의 흐름과 정 반대로 낙원의 방향을 설계할 때마다, 과거 이상화된 유토피아의 모습을 알고 있는 호세아의 불안은 커져만 간다. 낙원이라는 장소적 목적지가 결국 시간성에 기대 재조립된 과거라는 점에서 더치의 낙원은 결국 불가능한 이상향으로 남을 수 밖에 없으며, 그가 제시한 과거로 향하기 위해 시대의 급물살을 거슬러 올라가야 하는 갱단의 운명은 필히 비관적일 것이기 때문이다. 
+
+불가능한 낙원을 약속하는 더치와 낙원의 내포된 운명을 짐작하는 호세아 사이에서 플레이어의 커서를 맡은 아서는 파국의 속도를 늦추기 위해 동분서주하지만, 결국 배를 타고 떠나 도착한 열대의 구아르마는 장소적 유토피아의 마지막 희망을 담담하게 꺼뜨린다.  동부, 유럽, 오스트레일리아, 타히티 등으로 매번 번복 되던 낙원은 금괴와 함께 가라앉은 바다 밑 혹은 동굴 사다리 밑 노파의 사체와 함께 사라졌다. 그들이 영위할 수 있었던 개인의 자유와 야생적 삶의 존엄을 지킬 수 있었던 시간은 이전에도 그랬듯이 앞으로도 존재하지 않을 것이며, 새로운 시대는 꿈꾸던 자들의 이면을 벗겨내어 과거에 종속된 자들의 종언을 알린다.
